@@ -4,8 +4,11 @@ you will only be able to share them with people who are already part of your org
 
 
 
+This change is being made to improve the security of our organization's information. By limiting who can access shared files and folders, we can help to protect sensitive information from being shared with unauthorized individuals. It will also result in improved performance during the sharing process and reduced complexity in managing shared permissions.
 
-After the change, when copying a link to a file or folder, the link will only work for people who have already been invited to share the file with before and are part of Harris Williams.
+Please note that no functionality is being deprecated. Users will still be able to create shared links to files and folders with all people within the organization, but they will need to do so explicitly. The default sharing link type will only be used when users do not specify a specific sharing option. 
+
+
 
 After the change, when copying a link to a file or folder, the link will only work for people who have already been invited to share the file with before and are part of Harris Williams.
 
