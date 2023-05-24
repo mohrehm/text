@@ -11,4 +11,4 @@ Please note that no functionality is being deprecated. Users will still be able 
 
 
 After the change, when copying a link to a file or folder, the link will only work for people who have already been invited to share the file with before and are part of Harris Williams.
-
+No functionality is being removed. Users can still share files and folders with anyone in the organization, but they will need to choose to do so explicitly. The default sharing setting will only be used if the user does not specify a different sharing option.
