@@ -1,32 +1,7 @@
-Data collection. Microsoft Syntex first collects data from your organization's documents. This data can include text, images, tables, and other types of information.
-Model training. Microsoft Syntex then uses this data to train a model. This model is used to identify and extract information from documents.
-Document processing. Once the model is trained, Microsoft Syntex can be used to process documents. This includes identifying and extracting information from documents, as well as classifying documents.
-Content assembly. Microsoft Syntex can also be used to assemble new documents. This can be done by using the information that has been extracted from existing documents.
-Reporting. Microsoft Syntex provides reporting capabilities. This allows you to track the performance of Microsoft Syntex and identify areas where it can be improved.
-Here are some additional details about each of these steps:
-
-Data collection. Microsoft Syntex can collect data from a variety of sources, including SharePoint Online, OneDrive, and Azure Blob Storage.
-Model training. Microsoft Syntex uses a variety of machine learning algorithms to train its models. These algorithms are trained on a large dataset of documents that have been labeled with the correct information.
-Document processing. Microsoft Syntex can process documents in a variety of ways. It can identify and extract information from documents, as well as classify documents.
-Content assembly. Microsoft Syntex can be used to assemble new documents by using the information that has been extracted from existing documents. This can be done by using templates or by manually entering data.
-Reporting. Microsoft Syntex provides reporting capabilities that allow you to track the performance of Microsoft Syntex and identify areas where it can be improved.
-
-
-
-
-Microsoft Viva Topics is a knowledge management solution that uses AI to organize and make information more accessible to employees. It does this by identifying topics in your Microsoft 365 environment, such as projects, events, organizations, and products, and then connecting those topics to related content, such as documents, emails, and conversations.
-
-Here are some of the ways that Microsoft Viva Topics works:
-
-It identifies topics in your Microsoft 365 environment. Viva Topics uses AI to identify topics in your Microsoft 365 environment, such as projects, events, organizations, and products. It does this by analyzing the text in your documents, emails, and conversations.
-It connects topics to related content. Once Viva Topics has identified topics, it connects those topics to related content, such as documents, emails, and conversations. This makes it easier for employees to find the information they need, even if they don't know where to look.
-It displays information in a way that is easy to understand. Viva Topics displays information in a way that is easy to understand. For example, it can show topic cards in your SharePoint modern pages or in your Microsoft Search results. Topic cards provide a summary of the topic, as well as links to related content.
-It helps employees find experts. Viva Topics can also help employees find experts. For example, it can show a list of top subject matter experts for a particular topic. This can be helpful for employees who are looking for help with a specific project or task.
-Overall, Microsoft Viva Topics is a powerful knowledge management solution that can help employees find the information they need, even if they don't know where to look. It can also help employees find experts and connect them to the information they need to be successful.
-
-Here are some of the benefits of using Microsoft Viva Topics:
-
-Increased productivity: Viva Topics can help employees find the information they need more quickly, which can lead to increased productivity.
-Improved decision-making: Viva Topics can help employees make better decisions by providing them with access to more information.
-Reduced costs: Viva Topics can help organizations reduce costs by reducing the need for employees to spend time searching for information.
-If you are looking for a way to improve the way your employees find information, Microsoft Viva Topics is a great option. It is a powerful knowledge management solution that can help your employees find the information they need, even if they don't know where to look.
+None \ End Use only			Using the off the shelf package as is, and no "configuration" necessary
+COTS Configuration			Using the built-in capabilities, through the user interface provided, to config the software to support the business. For example,  in CRM we add "Company" fields as needed. For example, We add a sharepoint list with the columns that we want for a project
+Low Code \ No Code			Using the built-in capabilities to build an application from a blank canvas, without needing to code, typically using visual drag and drop capabilities. Employ visual interfaces with basic logic and drag and drop capabilities.
+Scripting \ Automation			Writing code for limited, specific, isolated tasks. This code is sitting in on top of an existing COTS application. The scope of this coding is deminimus relative to the COTS application as a whole. 
+			
+COTS Customization			Acquiring access and rights to update the source code for an COTS application, and changing the source code as needed. Essentially, taking over the source code of a COTS application.
+Software Eng - In House Dev			Writing an application from the ground up.
