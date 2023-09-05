@@ -1,3 +1,5 @@
+While Joseph has made efforts to enhance his performance since his last review on July 13th, he has faced challenges in maintaining consistent improvement. Issues pertaining to Joseph's timeliness and attention to detail persistently affect the quality of his deliverables. His participation in crucial meetings, where concerns regarding attentiveness and engagement have arisen, as well as his responsibilities in addressing support and QA-related matters, continue to be areas of concern.
+
 On TOPS days, during a crucial all-hands meeting featuring our CEO, Bob, Joseph fell asleep. Jenne, our CTO, noticed this and discreetly woke him, leading him outside to address it. Notably, this was not the first time Joseph had fallen asleep during a meeting, emphasizing a recurring issue. This incident underscored the need for professionalism during company gatherings and was considered disrespectful.
 Timeliness continues to be an issue with Joseph's performance. Vulnerability reports, which were due before the month's meeting, were not completed for the month of August. Additionally, revisions to the documentation for the 'Headshots' and 'Tombstones' apps required numerous iterations and consumed a significant amount of time.
 
@@ -6,7 +8,7 @@ The support provided to address 'BAR' issues fell short of expectations on sever
 Unfortunately, we encountered lapses in this aspect, with limited responsiveness and progress updates being communicated. Furthermore, the yearly password reset activities were not executed comprehensively, resulting in services failing on the servers. 
 Joseph collaborated with Microsoft to resolve BAR's QA environment issues. Regrettably, critical validation checks, essential for ensuring the effectiveness of our solutions, were neglected. This oversight could have led to missed SLAs if it had not been remediated by Mohammed before the start of the next day."
 
-
+Improvements and break-fixes to the Headshots app and Tombstones app encountered multiple issues, significantly impeding the seamless operation of these solutions. One of the key challenges was Joseph's failure to conduct comprehensive testing and functional validation of the improvements, which subsequently led to critical issues within the app.
 
 
 
