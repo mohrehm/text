@@ -1,25 +1,10 @@
-None \ End Use only			
-Out-of-the-box use of software refers to utilizing a pre-packaged solution without any configuration, allowing quick and easy deployment in its default state.
+On TOPS days, during a crucial all-hands meeting featuring our CEO, Bob, Joseph fell asleep. Jenne, our CTO, noticed this and discreetly woke him, leading him outside to address it. Notably, this was not the first time Joseph had fallen asleep during a meeting, emphasizing a recurring issue. This incident underscored the need for professionalism during company gatherings and was considered disrespectful.
+Timeliness continues to be an issue with Joseph's performance. Vulnerability reports, which were due before the month's meeting, were not completed for the month of August. Additionally, revisions to the documentation for the 'Headshots' and 'Tombstones' apps required numerous iterations and consumed a significant amount of time.
 
 
-COTS Configuration			
-This involves leveraging the software's user interface to utilize its built-in capabilities for tailoring and adapting the software to meet specific business requirements.
-
-Low Code \ No Code			
-Utilize the visual drag-and-drop capabilities of a software platform to create applications without the need for traditional coding. It enables users to build applications from scratch, starting with a blank canvas, by employing intuitive visual interfaces that offer basic logic and drag-and-drop functionality.
-
-
-Scripting \ Automation			
-Involve writing code specifically for limited, isolated tasks that complement an existing Commercial Off-The-Shelf (COTS) application. This code focuses on specific, targeted functionalities and operates alongside the broader COTS application, serving a minimal role in comparison to the overall scope of the COTS application.
-
-
-
-COTS Customization			
- refers to the process of modifying COTS application to meet specific requirements or preferences. It involves making changes to the application's functionality, user interface, configuration settings, or other aspects to align it with the unique needs of an organization. It tailors the software to specific use cases without having to develop a completely new solution from scratch. It can involve altering code, configurations, or settings within the constraints and guidelines provided by the software vendor.
-
-
-Software Eng - In House Dev			
-involves using internal resources to design, develop, and deploy custom software solutions tailored to its specific needs.
+The support provided to address 'BAR' issues fell short of expectations on several fronts. Notably, this support was crucial as it was intended to assist with a production issue, making timely and effective communication a priority. 
+Unfortunately, we encountered lapses in this aspect, with limited responsiveness and progress updates being communicated. Furthermore, the yearly password reset activities were not executed comprehensively, resulting in services failing on the servers. 
+Joseph collaborated with Microsoft to resolve BAR's QA environment issues. Regrettably, critical validation checks, essential for ensuring the effectiveness of our solutions, were neglected. This oversight could have led to missed SLAs if it had not been remediated by Mohammed before the start of the next day."
 
 
 
